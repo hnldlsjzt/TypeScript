@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.idea/
+_tests_/
+build/
+coverage/
+yarn-error.log
